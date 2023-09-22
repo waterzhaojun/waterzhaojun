@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waterzhaojun
 - 👀 I’m interested in Python and MatLab
-- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any interesting project
 
 <!---
